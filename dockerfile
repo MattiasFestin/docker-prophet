@@ -1,2 +1,2 @@
-FROM: python
+FROM python
 RUN pip install fbprophet
